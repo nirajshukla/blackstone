@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlackStone.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55bd6be40b8b574284e7613fc68d143bb22e03ed")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fc1faf1ca9ff646650187a187e59929c7c4eec9")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlackStone.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlackStone.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
